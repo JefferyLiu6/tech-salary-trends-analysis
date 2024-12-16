@@ -82,7 +82,12 @@ As remote work continues to redefine job markets and education becomes increasin
 ├── clean_kaggle_data_2024.csv    # Cleaned dataset used for the analysis
 ├── README.md                     # Project overview and details
 ```
+---
 
+## Next Steps 🧭
+- Expand the dataset to explore additional demographic and geographic trends.
+- Incorporate machine learning models to predict salaries based on education and job modes.
+- Investigate longitudinal trends in remote work adoption and its impact on compensation.
 
 ---
 
