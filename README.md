@@ -81,7 +81,7 @@ As remote work continues to redefine job markets and education becomes increasin
 ├── salary_analysis.ipynb         # Notebook containing the analysis and visualizations
 ├── clean_kaggle_data_2024.csv    # Cleaned dataset used for the analysis
 ├── README.md                     # Project overview and details
-'''
+```
 
 
 ---
